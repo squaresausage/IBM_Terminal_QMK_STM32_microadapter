@@ -4,6 +4,6 @@ My attempt to design a very small and very cheap USB converter for IBM Model M t
 
 Intended to fit in between the pins of a 5 pin DIN 270° female connector, with a PCB edge USB A connector.
 
-The current design has flipped pins, a bad pinout, and is generally quite clunky.
+V0.2 now should actually match the pins of a DIN connector. Make sure to use the updated version of the keyboard config with the latest pinout for the F042.
 
 ![Screenshot](./assets/V0.1_Render.png)
